@@ -1,0 +1,11 @@
+# The motion server's packages, as tested (Python 3.12). Install PyTorch for your GPU first:
+# it is not listed here because its build depends on the GPU (CUDA, ROCm, or Apple's MPS).
+# Tested with torch 2.12.0a0+rocm7.13.0a20260411 on an AMD Radeon 8060S (gfx1151).
+transformers==5.19.0
+tokenizers==0.23.2
+huggingface-hub==1.33.0
+safetensors==0.8.0
+numpy==2.4.3
+scipy==1.18.1
+pyyaml==6.0.3
+einops==0.8.2

@@ -1,0 +1,42 @@
+{
+  "name": "motion-server",
+  "description": "Text to motion: words in, a few seconds of a person's whole-body motion out (SMPL's 22 body joints), as JSON, glTF or BVH.",
+  "task": "motion",
+  "api": {
+    "base": "/v1/motion/generations",
+    "health": "/health",
+    "doc": "hemera docs/media-api.md, section Motion"
+  },
+  "run": {
+    "python": "3.12",
+    "requirements": "requirements.txt",
+    "torch": "any PyTorch >= 2.5 with a GPU (tested 2.12.0a0+rocm7.13.0a20260411); install the build for the GPU first",
+    "command": ["{venv}/bin/python", "-I", "{engine}/motion_server.py", "--port", "{port}", "--models", "{models}", "--code", "{code}", "--name", "{name}"],
+    "env": {"HSA_TOOLS_DISABLE_REGISTER": "1", "TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL": "1"}
+  },
+  "fetch": {
+    "script": "setup/fetch.sh",
+    "files": "setup/models.tsv",
+    "code": {"repo": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0", "commit": "c71ea6c694d8f221c742ff435d9447fa88f91707", "tree": "setup/hy-motion-tree-c71ea6c.json"},
+    "bytes": 22283453013
+  },
+  "models": [
+    {
+      "name": "hy-motion-1.0",
+      "detect": {
+        "file": "HY-Motion-1.0/config.yml",
+        "contains": "hymotion/network/hymotion_mmdit.HunyuanMotionMMDiT",
+        "also": ["HY-Motion-1.0/latest.ckpt", "Qwen3-8B/config.json", "clip-vit-large-patch14/config.json"]
+      },
+      "memoryMB": 24576,
+      "gpu": true,
+      "licences": [
+        {"what": "HY-Motion 1.0 weights and code", "name": "Tencent HY-Motion 1.0 Community License",
+         "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0/blob/master/License.txt",
+         "note": "Not valid in the European Union, the United Kingdom or South Korea. A licensee with more than 1 million monthly active users on 2025-12-30 needs Tencent's licence. Outputs may not be used to improve other AI models. Tencent claims no rights in outputs."},
+        {"what": "Qwen3-8B (text encoder)", "name": "Apache-2.0", "url": "https://huggingface.co/Qwen/Qwen3-8B"},
+        {"what": "CLIP ViT-L/14 (text encoder)", "name": "MIT", "url": "https://github.com/openai/CLIP"}
+      ]
+    }
+  ]
+}

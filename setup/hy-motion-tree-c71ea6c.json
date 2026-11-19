@@ -1,0 +1,690 @@
+{
+  "sha": "c71ea6c694d8f221c742ff435d9447fa88f91707",
+  "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/c71ea6c694d8f221c742ff435d9447fa88f91707",
+  "tree": [
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6344aac8c09253b3b630fb776ae94478aa0275b",
+      "size": 1519,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/a6344aac8c09253b3b630fb776ae94478aa0275b"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb83e2079db89e86d1b168390e96fc0232fc42c8",
+      "size": 155,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/fb83e2079db89e86d1b168390e96fc0232fc42c8"
+    },
+    {
+      "path": "License.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "163efa9223e2b8726f9153c919ed866f175cfe90",
+      "size": 16087,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/163efa9223e2b8726f9153c919ed866f175cfe90"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bd8752af959ed83484c5a6b373662abe14631ff",
+      "size": 9897,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/3bd8752af959ed83484c5a6b373662abe14631ff"
+    },
+    {
+      "path": "README_zh_cn.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "712480b23fddebf6dc323ca9cb765f28fefc7909",
+      "size": 8253,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/712480b23fddebf6dc323ca9cb765f28fefc7909"
+    },
+    {
+      "path": "assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "607a06678412525d30775fae20e6ef9d722b2d87",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/607a06678412525d30775fae20e6ef9d722b2d87"
+    },
+    {
+      "path": "assets/arch.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dece021e0db0c76ef70c8630dcd8581b533b428",
+      "size": 115632,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/1dece021e0db0c76ef70c8630dcd8581b533b428"
+    },
+    {
+      "path": "assets/banner.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18108a0d2513330feac0d7359beb0629293c2f32",
+      "size": 37941,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/18108a0d2513330feac0d7359beb0629293c2f32"
+    },
+    {
+      "path": "assets/pipeline.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e917d1b23f388db48fb37a5f3c77e3fc64b92581",
+      "size": 183929,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/e917d1b23f388db48fb37a5f3c77e3fc64b92581"
+    },
+    {
+      "path": "assets/sotacomp.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b31f0d6f5726d3ce8b0ee99fc207ed48adb854a8",
+      "size": 141486,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/b31f0d6f5726d3ce8b0ee99fc207ed48adb854a8"
+    },
+    {
+      "path": "assets/sotacomp.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a139464b1a6562aa8d65da9c30fefa113f0c904d",
+      "size": 412930,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/a139464b1a6562aa8d65da9c30fefa113f0c904d"
+    },
+    {
+      "path": "assets/teaser.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7905f9264165155e7b275d2ddc0d2a398e36abe8",
+      "size": 279325,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/7905f9264165155e7b275d2ddc0d2a398e36abe8"
+    },
+    {
+      "path": "assets/teaser.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261ded614015b748805bd8fd0ba720f75cbaeaea",
+      "size": 975042,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/261ded614015b748805bd8fd0ba720f75cbaeaea"
+    },
+    {
+      "path": "assets/wooden_models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1093b75001cd53ab169073ad804ca7e7fc31a371",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/1093b75001cd53ab169073ad804ca7e7fc31a371"
+    },
+    {
+      "path": "assets/wooden_models/boy_Rigging_smplx_tex.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c074c58f565a7789feb22b37596c47069620c795",
+      "size": 16490768,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/c074c58f565a7789feb22b37596c47069620c795"
+    },
+    {
+      "path": "ckpts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "13b5d56b41a35af7d81c72a1ad654d8ba15b62bf",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/13b5d56b41a35af7d81c72a1ad654d8ba15b62bf"
+    },
+    {
+      "path": "ckpts/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d43d8e4b491a1d7bd89fc87c7f8337a70ad9530",
+      "size": 2592,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/0d43d8e4b491a1d7bd89fc87c7f8337a70ad9530"
+    },
+    {
+      "path": "examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e1593b94e51102602a41b3d98b295a939aafeab8",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/e1593b94e51102602a41b3d98b295a939aafeab8"
+    },
+    {
+      "path": "examples/example_prompts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4985529bbe89adebbfbb7350d719dc5a5584be23",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/4985529bbe89adebbfbb7350d719dc5a5584be23"
+    },
+    {
+      "path": "examples/example_prompts/example_subset.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de72d34e0b911aecef8b32062c3d8c16d53528db",
+      "size": 4081,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/de72d34e0b911aecef8b32062c3d8c16d53528db"
+    },
+    {
+      "path": "gradio_app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3876db2226fceb3f9a40a69a4e4ffc6217ebc7e4",
+      "size": 35713,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/3876db2226fceb3f9a40a69a4e4ffc6217ebc7e4"
+    },
+    {
+      "path": "hymotion",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6271cb6e15d324883f053dae4ba876372aa87c28",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/6271cb6e15d324883f053dae4ba876372aa87c28"
+    },
+    {
+      "path": "hymotion/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6cec65f58c2d3b4451c107638b5d819b58015604",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/6cec65f58c2d3b4451c107638b5d819b58015604"
+    },
+    {
+      "path": "hymotion/network/attention.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25e376a328ad602e864c1b383d712dd0e901692a",
+      "size": 4270,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/25e376a328ad602e864c1b383d712dd0e901692a"
+    },
+    {
+      "path": "hymotion/network/bricks.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4d507620c9e020bbd9fefcae5bdbc8d4935c054",
+      "size": 1362,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/b4d507620c9e020bbd9fefcae5bdbc8d4935c054"
+    },
+    {
+      "path": "hymotion/network/encoders.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "931b1fb85862930448dd83fbe296b6164c72dce0",
+      "size": 4493,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/931b1fb85862930448dd83fbe296b6164c72dce0"
+    },
+    {
+      "path": "hymotion/network/hymotion_mmdit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79c56417f568767d9644916df78ca4415947e49d",
+      "size": 23719,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/79c56417f568767d9644916df78ca4415947e49d"
+    },
+    {
+      "path": "hymotion/network/modulate_layers.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "092ce07c4773e4d5d5582d468e031eaf5037ab65",
+      "size": 1595,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/092ce07c4773e4d5d5582d468e031eaf5037ab65"
+    },
+    {
+      "path": "hymotion/network/positional_encoding.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e0e2acd225829192d06c1610b021c63f286bcf6",
+      "size": 7481,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/4e0e2acd225829192d06c1610b021c63f286bcf6"
+    },
+    {
+      "path": "hymotion/network/text_encoders",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f42874030311c74a7594e603c1c5755bb7f7daa2",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/f42874030311c74a7594e603c1c5755bb7f7daa2"
+    },
+    {
+      "path": "hymotion/network/text_encoders/model_constants.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98bb280ed2e3db072ddc9b01c2c08fa21a8b13ef",
+      "size": 553,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/98bb280ed2e3db072ddc9b01c2c08fa21a8b13ef"
+    },
+    {
+      "path": "hymotion/network/text_encoders/text_encoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a115cb3f38e7f94ef16364a4a6a2b4dc23a3ca35",
+      "size": 12684,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/a115cb3f38e7f94ef16364a4a6a2b4dc23a3ca35"
+    },
+    {
+      "path": "hymotion/network/token_refiner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34cd4b5fb36e260da285055164847ba544bbea07",
+      "size": 7221,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/34cd4b5fb36e260da285055164847ba544bbea07"
+    },
+    {
+      "path": "hymotion/pipeline",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e4226848b645ad7d924944ea6aa13d4051dc1d78",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/e4226848b645ad7d924944ea6aa13d4051dc1d78"
+    },
+    {
+      "path": "hymotion/pipeline/body_model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd2a76f2abcda638610847fd681e5b2400034720",
+      "size": 14871,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/cd2a76f2abcda638610847fd681e5b2400034720"
+    },
+    {
+      "path": "hymotion/pipeline/motion_diffusion.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d363f1420e6dc8271eb795a9c1d5c1be2ec1260",
+      "size": 27346,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/1d363f1420e6dc8271eb795a9c1d5c1be2ec1260"
+    },
+    {
+      "path": "hymotion/prompt_engineering",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "69601b40a78f41d2a5738296b947503b29a7fa92",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/69601b40a78f41d2a5738296b947503b29a7fa92"
+    },
+    {
+      "path": "hymotion/prompt_engineering/model_constants.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a04a8badaa8c1c6efc31c730afef2b93489d3407",
+      "size": 1850,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/a04a8badaa8c1c6efc31c730afef2b93489d3407"
+    },
+    {
+      "path": "hymotion/prompt_engineering/prompt_rewrite.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c67d8f641f7e9145c57d9e10b4b28c0e6c74c65",
+      "size": 12071,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/9c67d8f641f7e9145c57d9e10b4b28c0e6c74c65"
+    },
+    {
+      "path": "hymotion/utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ea6741ef1200a83e109bac72201527dc222c9656",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/ea6741ef1200a83e109bac72201527dc222c9656"
+    },
+    {
+      "path": "hymotion/utils/configs.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e384ae1a38495e162bf009f7a30178c7732fd574",
+      "size": 13452,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/e384ae1a38495e162bf009f7a30178c7732fd574"
+    },
+    {
+      "path": "hymotion/utils/geometry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b93f831ba1eccafffddb25bb27e644f9a0944a67",
+      "size": 30879,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/b93f831ba1eccafffddb25bb27e644f9a0944a67"
+    },
+    {
+      "path": "hymotion/utils/loaders.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e407876c55826f96b4b9b03d289535f24793aab1",
+      "size": 5503,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/e407876c55826f96b4b9b03d289535f24793aab1"
+    },
+    {
+      "path": "hymotion/utils/misc.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "865a05978d30ff53009c626afd174eba2034ef56",
+      "size": 3362,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/865a05978d30ff53009c626afd174eba2034ef56"
+    },
+    {
+      "path": "hymotion/utils/motion_process.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e691d85576e945d6e181c91abb95458b39570d94",
+      "size": 2030,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/e691d85576e945d6e181c91abb95458b39570d94"
+    },
+    {
+      "path": "hymotion/utils/path.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd2ec839ed8c94f458f9afd10aa87ad8795047b2",
+      "size": 5954,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/bd2ec839ed8c94f458f9afd10aa87ad8795047b2"
+    },
+    {
+      "path": "hymotion/utils/smplh2woodfbx.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d027f1ff3640a3eaee52997a56c2e3a8df9a61e",
+      "size": 23319,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/1d027f1ff3640a3eaee52997a56c2e3a8df9a61e"
+    },
+    {
+      "path": "hymotion/utils/t2m_runtime.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d5faff304883b6333013221e80f991a7c3d8a5d",
+      "size": 16320,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/2d5faff304883b6333013221e80f991a7c3d8a5d"
+    },
+    {
+      "path": "hymotion/utils/type_converter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f1d02af7557548aff10fcff7c2e734cc6ca339a",
+      "size": 556,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/9f1d02af7557548aff10fcff7c2e734cc6ca339a"
+    },
+    {
+      "path": "hymotion/utils/visualize_mesh_web.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c11b57ae85e578fb9ead400842095c85f5b45c41",
+      "size": 14494,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/c11b57ae85e578fb9ead400842095c85f5b45c41"
+    },
+    {
+      "path": "local_infer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4fc85afe71a2e387a8588b654a4d2c250be9b34",
+      "size": 14465,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/b4fc85afe71a2e387a8588b654a4d2c250be9b34"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "881c5389a0e86d4208b347e5d4c1af1e2d2e9b5b",
+      "size": 427,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/881c5389a0e86d4208b347e5d4c1af1e2d2e9b5b"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2689e130923ef9d01e518d91bf866f9990996206",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/2689e130923ef9d01e518d91bf866f9990996206"
+    },
+    {
+      "path": "scripts/gradio",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "952b4e1f64992a21ad5f8328614273afc08c4a44",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/952b4e1f64992a21ad5f8328614273afc08c4a44"
+    },
+    {
+      "path": "scripts/gradio/static",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aae0c168fb17fa4daf544563687207c2143d2b25",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/aae0c168fb17fa4daf544563687207c2143d2b25"
+    },
+    {
+      "path": "scripts/gradio/static/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c44a73fe45d6651cc664c3edade080d4274e899e",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/c44a73fe45d6651cc664c3edade080d4274e899e"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a1293138cce3c46ca10088b24b692c2a676e4fa",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/7a1293138cce3c46ca10088b24b692c2a676e4fa"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/Boy_lambert4_BaseColor.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70e5e39aa5a15ac7faf2c79233bb8421872cb8d2",
+      "size": 228228,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/70e5e39aa5a15ac7faf2c79233bb8421872cb8d2"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/Boy_lambert4_Normal.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb8fa7f34291afad86659cb335582997015269d7",
+      "size": 30430,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/bb8fa7f34291afad86659cb335582997015269d7"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/Boy_lambert4_OcclusionRoughnessMetallic.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84380636046ed0f71d2cafb5ba343d3bf7b76d19",
+      "size": 206722,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/84380636046ed0f71d2cafb5ba343d3bf7b76d19"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/faces.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06ceddf590710f03ca4b1ec517993e820d6597e6",
+      "size": 131,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/06ceddf590710f03ca4b1ec517993e820d6597e6"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/j_template.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf614efd7c18d17aac67192196c87371b68c5adc",
+      "size": 128,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/cf614efd7c18d17aac67192196c87371b68c5adc"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/joint_names.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95415b3786ca61223d666faad98b0452e6f99300",
+      "size": 698,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/95415b3786ca61223d666faad98b0452e6f99300"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/joints.ply",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf70efc97b3f86c1dc0021c5dbd0f5f3d6c9fe0e",
+      "size": 782,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/cf70efc97b3f86c1dc0021c5dbd0f5f3d6c9fe0e"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/keypoints.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf614efd7c18d17aac67192196c87371b68c5adc",
+      "size": 128,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/cf614efd7c18d17aac67192196c87371b68c5adc"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/kintree.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f0261f9d2d2b7daae9a6775b0f769a62e3a90af",
+      "size": 128,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/1f0261f9d2d2b7daae9a6775b0f769a62e3a90af"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/skinIndice.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3819f48cdc4d6e2175c2663855919164f20b5fe9",
+      "size": 131,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/3819f48cdc4d6e2175c2663855919164f20b5fe9"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/skinWeights.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6fb57ebf01a3a7991a0d710340b876a39d3e2af",
+      "size": 131,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/a6fb57ebf01a3a7991a0d710340b876a39d3e2af"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/uvs.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c8abfc32bb0cb46a0f35bf6d1217abb96a3ce37",
+      "size": 131,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/7c8abfc32bb0cb46a0f35bf6d1217abb96a3ce37"
+    },
+    {
+      "path": "scripts/gradio/static/assets/dump_wooden/v_template.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "364b797b82a60e30a8b9287ccea86d8167120f79",
+      "size": 131,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/364b797b82a60e30a8b9287ccea86d8167120f79"
+    },
+    {
+      "path": "scripts/gradio/templates",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3012ca14e14074b8670d264c6e2eec88537f2189",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/3012ca14e14074b8670d264c6e2eec88537f2189"
+    },
+    {
+      "path": "scripts/gradio/templates/index_wooden_static.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d62b203524bc4a65f33a9e39b17184345e03ed6",
+      "size": 40286,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/0d62b203524bc4a65f33a9e39b17184345e03ed6"
+    },
+    {
+      "path": "ssae",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "92795f788c73fc59ebbeb19a587c6e70ba03322f",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/92795f788c73fc59ebbeb19a587c6e70ba03322f"
+    },
+    {
+      "path": "ssae/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1291356b6004e852676add553f3e5cdb18f599e",
+      "size": 5207,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/b1291356b6004e852676add553f3e5cdb18f599e"
+    },
+    {
+      "path": "ssae/README_zh_cn.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56dffddd5b128d772cae28ed27aed96d02fc0bce",
+      "size": 4797,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/56dffddd5b128d772cae28ed27aed96d02fc0bce"
+    },
+    {
+      "path": "ssae/examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0234d1eb7dc17793378a57fa920f8a7c214c10a4",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/0234d1eb7dc17793378a57fa920f8a7c214c10a4"
+    },
+    {
+      "path": "ssae/examples/00000000.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a72123119a0b98b30c01ffb9ace0d33523ed3f01",
+      "size": 405573,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/a72123119a0b98b30c01ffb9ace0d33523ed3f01"
+    },
+    {
+      "path": "ssae/gemini_video_ssae.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5c45a44ed40f277b828da0915dbeb50aa1d89e9",
+      "size": 12315,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/e5c45a44ed40f277b828da0915dbeb50aa1d89e9"
+    },
+    {
+      "path": "ssae/ssae_prompts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "78e51417380facf3bac1206c086a365eba9f3775",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/78e51417380facf3bac1206c086a365eba9f3775"
+    },
+    {
+      "path": "ssae/ssae_prompts/daily.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "370d04cd742951a9de176e603d2fc688da6ee9fd",
+      "size": 308564,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/370d04cd742951a9de176e603d2fc688da6ee9fd"
+    },
+    {
+      "path": "ssae/ssae_prompts/fitness.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d77cbeee8b2e2ba9d49e33ea1ef4417660c3b401",
+      "size": 388877,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/d77cbeee8b2e2ba9d49e33ea1ef4417660c3b401"
+    },
+    {
+      "path": "ssae/ssae_prompts/game.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89ef81074a5e6d28413f8d33252b262585f83722",
+      "size": 314186,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/89ef81074a5e6d28413f8d33252b262585f83722"
+    },
+    {
+      "path": "ssae/ssae_prompts/locomotion.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60fc5271a6d162a305a309e7df8fd89d24baafd5",
+      "size": 274140,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/60fc5271a6d162a305a309e7df8fd89d24baafd5"
+    },
+    {
+      "path": "ssae/ssae_prompts/social.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b9334f554677981488ea97504df9fab2058aabf",
+      "size": 253382,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/7b9334f554677981488ea97504df9fab2058aabf"
+    },
+    {
+      "path": "ssae/ssae_prompts/sports.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "152da454c0c878db1f763046892d65087d6d9853",
+      "size": 275128,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/152da454c0c878db1f763046892d65087d6d9853"
+    },
+    {
+      "path": "stats",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "59dbd7d403c1d31c9059d8f99858a50f66cd1751",
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/trees/59dbd7d403c1d31c9059d8f99858a50f66cd1751"
+    },
+    {
+      "path": "stats/Mean.npy",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6f59ef8e6e2e553a961c0684323040216c11090",
+      "size": 129,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/f6f59ef8e6e2e553a961c0684323040216c11090"
+    },
+    {
+      "path": "stats/Std.npy",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c90b61ed66b47cffac083ee7248bbdb9b668955a",
+      "size": 129,
+      "url": "https://api.github.com/repos/Tencent-Hunyuan/HY-Motion-1.0/git/blobs/c90b61ed66b47cffac083ee7248bbdb9b668955a"
+    }
+  ],
+  "truncated": false
+}
