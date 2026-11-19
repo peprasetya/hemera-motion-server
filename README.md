@@ -1,4 +1,4 @@
-# motion-server
+# hemera-motion-server
 
 Text to motion over HTTP. Words go in ("a slow twirl, arms out") and a few seconds of a person's
 whole-body motion come out, on SMPL's 22-joint body skeleton, as JSON, binary glTF or BVH. It runs
@@ -41,6 +41,13 @@ hemera's `docs/media-api.md` ("Motion"); in short:
 ## Setting it up
 
 Everything goes in one directory, here `/media/shared/AIModels/motion`, which is called `DIR` below.
+
+### 0. The server
+
+```bash
+git clone https://github.com/peprasetya/hemera-motion-server DIR/server
+cd DIR/server
+```
 
 ### 1. The downloads (about 22.3 GB)
 
